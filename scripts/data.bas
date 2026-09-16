@@ -2,8 +2,8 @@ Attribute VB_Name = "import"
 Sub import()
 
 Dim ws_import, ws_file As Worksheet
-Set ws_import = Workbooks("home insurance ratemaking project 1").Worksheets("1. ENC - Home Dataset")
-Set ws_file = Workbooks("Book2").Worksheets("Sheet1")
+Set ws_import = Workbooks("home insurance ratemaking").Worksheets("1. ENC - Home Dataset")
+Set ws_file = ActiveWorkbook.Worksheets("Sheet1")
 
 Dim current_row As Long
 Dim transaction
@@ -20,7 +20,7 @@ For i = 3 To 499:
     For j = 1 To 96:
         transaction = ws_import.Cells(i, 5 + j).Value
         If transaction > 0 Then
-            ws_file.Cells(current_row, "A").Value = "PMT" + Format(current_row, "0000")
+            ws_file.Cells(current_row, "A").Value = "PMT" + Format(current_row - 1, "0000")
             ws_file.Cells(current_row, "B").Value = ws_import.Cells(i, "A").Value
             ws_file.Cells(current_row, "C").Value = transaction
             If j Mod 12 = 0 Then
