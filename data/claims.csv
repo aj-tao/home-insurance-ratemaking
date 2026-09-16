@@ -1,0 +1,498 @@
+﻿claim_id,claim_type,accident_year,accident_month,status
+10001,Wind/Hail,2018,5,Closed
+10002,Water Damage,2022,1,Closed
+10003,Wind/Hail,2023,6,Closed
+10004,Wind/Hail,2024,12,Open
+10005,Fire,2023,12,Open
+10006,Water Damage,2024,3,Open
+10007,Water Damage,2018,6,Closed
+10008,Flood,2022,5,Open
+10009,Water Damage,2019,11,Closed
+10010,Fire,2018,12,Open
+10011,Flood,2025,5,Open
+10012,Fire,2018,6,Closed
+10013,Water Damage,2022,9,Closed
+10014,Fire,2023,6,Open
+10015,Wind/Hail,2018,2,Closed
+10016,Theft,2020,8,Closed
+10017,Water Damage,2023,11,Closed
+10018,Water Damage,2022,2,Closed
+10019,Water Damage,2022,4,Closed
+10020,Wind/Hail,2019,5,Closed
+10021,Water Damage,2025,2,Open
+10022,Theft,2025,4,Open
+10023,Wind/Hail,2018,8,Closed
+10024,Fire,2021,3,Open
+10025,Water Damage,2025,12,Open
+10026,Water Damage,2025,1,Open
+10027,Wind/Hail,2023,2,Open
+10028,Flood,2025,1,Open
+10029,Flood,2020,3,Closed
+10030,Fire,2024,4,Open
+10031,Wind/Hail,2021,9,Closed
+10032,Water Damage,2022,12,Closed
+10033,Theft,2024,11,Closed
+10034,Wind/Hail,2019,5,Closed
+10035,Wind/Hail,2025,10,Open
+10036,Wind/Hail,2022,8,Closed
+10037,Fire,2024,4,Open
+10038,Fire,2023,12,Open
+10039,Wind/Hail,2023,8,Closed
+10040,Theft,2021,8,Closed
+10041,Fire,2022,4,Open
+10042,Theft,2019,4,Closed
+10043,Water Damage,2022,10,Closed
+10044,Fire,2024,9,Open
+10045,Water Damage,2023,1,Closed
+10046,Fire,2020,6,Closed
+10047,Fire,2023,11,Open
+10048,Wind/Hail,2019,10,Closed
+10049,Fire,2023,2,Open
+10050,Wind/Hail,2021,7,Closed
+10051,Flood,2023,8,Open
+10052,Wind/Hail,2020,4,Closed
+10053,Theft,2021,5,Closed
+10054,Water Damage,2021,9,Closed
+10055,Fire,2023,8,Open
+10056,Water Damage,2019,9,Closed
+10057,Fire,2021,5,Closed
+10058,Flood,2020,8,Closed
+10059,Wind/Hail,2023,10,Closed
+10060,Theft,2018,12,Closed
+10061,Theft,2023,5,Closed
+10062,Wind/Hail,2023,11,Closed
+10063,Water Damage,2019,5,Closed
+10064,Theft,2022,2,Closed
+10065,Fire,2023,1,Open
+10066,Fire,2023,3,Open
+10067,Flood,2021,9,Closed
+10068,Theft,2025,8,Open
+10069,Water Damage,2021,4,Closed
+10070,Theft,2022,8,Closed
+10071,Wind/Hail,2022,9,Closed
+10072,Theft,2022,8,Closed
+10073,Fire,2023,11,Open
+10074,Water Damage,2019,11,Closed
+10075,Fire,2021,12,Closed
+10076,Theft,2019,11,Closed
+10077,Fire,2021,3,Closed
+10078,Flood,2019,8,Closed
+10079,Theft,2023,7,Closed
+10080,Fire,2021,12,Closed
+10081,Flood,2024,4,Open
+10082,Water Damage,2023,1,Closed
+10083,Water Damage,2024,6,Open
+10084,Wind/Hail,2022,2,Closed
+10085,Theft,2023,11,Closed
+10086,Fire,2023,10,Open
+10087,Water Damage,2025,3,Open
+10088,Fire,2019,8,Closed
+10089,Wind/Hail,2022,11,Closed
+10090,Water Damage,2023,1,Closed
+10091,Water Damage,2024,6,Open
+10092,Water Damage,2024,3,Open
+10093,Fire,2023,8,Open
+10094,Fire,2023,8,Open
+10095,Fire,2025,9,Open
+10096,Theft,2025,7,Open
+10097,Flood,2023,8,Open
+10098,Flood,2022,12,Open
+10099,Fire,2021,5,Open
+10100,Water Damage,2023,5,Closed
+10101,Water Damage,2024,4,Open
+10102,Water Damage,2019,10,Closed
+10103,Fire,2023,8,Open
+10104,Fire,2019,8,Closed
+10105,Wind/Hail,2022,8,Closed
+10106,Water Damage,2025,8,Open
+10107,Water Damage,2023,9,Closed
+10108,Water Damage,2023,11,Closed
+10109,Wind/Hail,2024,11,Open
+10110,Fire,2022,1,Open
+10111,Fire,2022,10,Open
+10112,Wind/Hail,2018,12,Closed
+10113,Wind/Hail,2023,1,Closed
+10114,Fire,2025,10,Open
+10115,Water Damage,2022,11,Closed
+10116,Water Damage,2021,4,Closed
+10117,Wind/Hail,2024,9,Open
+10118,Wind/Hail,2023,3,Open
+10119,Theft,2022,5,Closed
+10120,Fire,2022,3,Open
+10121,Wind/Hail,2020,9,Closed
+10122,Fire,2021,6,Closed
+10123,Wind/Hail,2019,12,Closed
+10124,Wind/Hail,2022,2,Closed
+10125,Water Damage,2025,10,Open
+10126,Fire,2023,2,Open
+10127,Wind/Hail,2025,5,Open
+10128,Wind/Hail,2021,1,Closed
+10129,Water Damage,2024,8,Open
+10130,Fire,2024,11,Open
+10131,Theft,2025,9,Open
+10132,Water Damage,2023,5,Closed
+10133,Flood,2020,1,Closed
+10134,Water Damage,2018,11,Closed
+10135,Water Damage,2019,6,Closed
+10136,Water Damage,2024,12,Open
+10137,Fire,2021,6,Open
+10138,Water Damage,2020,3,Closed
+10139,Water Damage,2021,12,Closed
+10140,Theft,2022,3,Closed
+10141,Fire,2019,12,Closed
+10142,Theft,2023,3,Closed
+10143,Water Damage,2025,10,Open
+10144,Flood,2022,11,Open
+10145,Wind/Hail,2024,6,Open
+10146,Water Damage,2025,10,Open
+10147,Theft,2020,10,Closed
+10148,Water Damage,2019,3,Closed
+10149,Theft,2022,10,Closed
+10150,Water Damage,2023,7,Closed
+10151,Water Damage,2025,6,Open
+10152,Water Damage,2021,2,Closed
+10153,Wind/Hail,2023,3,Closed
+10154,Flood,2019,1,Closed
+10155,Water Damage,2019,4,Closed
+10156,Wind/Hail,2023,12,Closed
+10157,Fire,2020,4,Closed
+10158,Fire,2025,6,Open
+10159,Water Damage,2023,5,Closed
+10160,Water Damage,2021,8,Closed
+10161,Fire,2018,2,Closed
+10162,Flood,2021,8,Closed
+10163,Fire,2025,9,Open
+10164,Water Damage,2020,12,Closed
+10165,Theft,2019,11,Closed
+10166,Wind/Hail,2018,11,Closed
+10167,Fire,2023,5,Open
+10168,Fire,2022,8,Open
+10169,Fire,2025,2,Open
+10170,Wind/Hail,2022,9,Closed
+10171,Wind/Hail,2024,7,Open
+10172,Flood,2018,7,Closed
+10173,Flood,2021,11,Closed
+10174,Fire,2020,8,Closed
+10175,Fire,2020,2,Closed
+10176,Flood,2023,10,Open
+10177,Theft,2023,12,Closed
+10178,Wind/Hail,2021,7,Closed
+10179,Wind/Hail,2025,9,Open
+10180,Flood,2024,2,Open
+10181,Wind/Hail,2022,8,Closed
+10182,Water Damage,2025,9,Open
+10183,Water Damage,2025,8,Open
+10184,Water Damage,2025,10,Open
+10185,Wind/Hail,2020,8,Closed
+10186,Fire,2025,1,Open
+10187,Water Damage,2022,1,Closed
+10188,Water Damage,2024,9,Open
+10189,Wind/Hail,2020,6,Closed
+10190,Fire,2024,2,Open
+10191,Water Damage,2024,11,Open
+10192,Wind/Hail,2023,5,Closed
+10193,Fire,2024,2,Open
+10194,Water Damage,2024,6,Open
+10195,Water Damage,2020,8,Closed
+10196,Fire,2020,2,Closed
+10197,Water Damage,2019,7,Closed
+10198,Water Damage,2022,2,Closed
+10199,Fire,2022,2,Open
+10200,Theft,2019,1,Closed
+10201,Fire,2023,10,Open
+10202,Flood,2024,6,Open
+10203,Water Damage,2024,12,Open
+10204,Water Damage,2019,7,Closed
+10205,Fire,2018,6,Closed
+10206,Theft,2023,11,Closed
+10207,Wind/Hail,2022,12,Closed
+10208,Water Damage,2022,2,Closed
+10209,Theft,2018,1,Closed
+10210,Wind/Hail,2022,9,Closed
+10211,Wind/Hail,2021,12,Closed
+10212,Wind/Hail,2024,10,Open
+10213,Fire,2021,7,Closed
+10214,Wind/Hail,2021,4,Closed
+10215,Theft,2022,11,Closed
+10216,Water Damage,2019,7,Closed
+10217,Theft,2024,4,Closed
+10218,Theft,2023,5,Closed
+10219,Wind/Hail,2023,4,Closed
+10220,Water Damage,2024,12,Open
+10221,Theft,2022,10,Closed
+10222,Flood,2024,3,Open
+10223,Water Damage,2023,11,Closed
+10224,Fire,2022,8,Open
+10225,Fire,2022,6,Open
+10226,Fire,2018,3,Closed
+10227,Water Damage,2023,12,Closed
+10228,Theft,2022,1,Closed
+10229,Water Damage,2024,2,Open
+10230,Theft,2023,3,Closed
+10231,Water Damage,2025,3,Open
+10232,Water Damage,2023,12,Closed
+10233,Water Damage,2021,11,Closed
+10234,Fire,2021,7,Closed
+10235,Water Damage,2020,1,Closed
+10236,Theft,2019,2,Closed
+10237,Wind/Hail,2023,11,Closed
+10238,Water Damage,2023,11,Closed
+10239,Fire,2020,6,Open
+10240,Water Damage,2024,10,Open
+10241,Water Damage,2025,1,Open
+10242,Fire,2023,2,Open
+10243,Fire,2022,1,Open
+10244,Water Damage,2025,4,Open
+10245,Theft,2020,8,Closed
+10246,Theft,2024,10,Closed
+10247,Fire,2021,8,Open
+10248,Wind/Hail,2022,8,Closed
+10249,Fire,2019,12,Closed
+10250,Water Damage,2019,3,Closed
+10251,Water Damage,2024,1,Open
+10252,Flood,2022,12,Open
+10253,Wind/Hail,2023,11,Closed
+10254,Wind/Hail,2024,4,Open
+10255,Theft,2025,9,Open
+10256,Water Damage,2025,9,Open
+10257,Flood,2018,4,Closed
+10258,Water Damage,2023,10,Closed
+10259,Water Damage,2023,1,Closed
+10260,Fire,2018,3,Closed
+10261,Water Damage,2019,7,Closed
+10262,Water Damage,2021,12,Closed
+10263,Flood,2020,10,Closed
+10264,Wind/Hail,2023,6,Closed
+10265,Water Damage,2022,7,Closed
+10266,Water Damage,2022,1,Closed
+10267,Flood,2021,10,Closed
+10268,Wind/Hail,2024,5,Open
+10269,Fire,2022,5,Open
+10270,Fire,2021,8,Closed
+10271,Theft,2020,5,Closed
+10272,Flood,2023,9,Open
+10273,Fire,2024,1,Open
+10274,Water Damage,2020,4,Closed
+10275,Wind/Hail,2024,2,Open
+10276,Wind/Hail,2023,7,Open
+10277,Water Damage,2020,9,Closed
+10278,Wind/Hail,2018,6,Closed
+10279,Fire,2020,8,Closed
+10280,Fire,2023,4,Open
+10281,Fire,2022,3,Open
+10282,Flood,2023,5,Open
+10283,Theft,2022,6,Closed
+10284,Water Damage,2020,4,Closed
+10285,Wind/Hail,2018,5,Closed
+10286,Water Damage,2022,11,Closed
+10287,Wind/Hail,2022,6,Closed
+10288,Wind/Hail,2024,10,Open
+10289,Fire,2021,1,Closed
+10290,Fire,2024,9,Open
+10291,Water Damage,2020,5,Closed
+10292,Theft,2025,2,Open
+10293,Fire,2019,4,Closed
+10294,Wind/Hail,2021,8,Closed
+10295,Theft,2018,1,Closed
+10296,Fire,2018,1,Closed
+10297,Theft,2024,3,Open
+10298,Wind/Hail,2024,7,Open
+10299,Fire,2018,2,Closed
+10300,Wind/Hail,2023,7,Closed
+10301,Wind/Hail,2024,9,Open
+10302,Flood,2021,1,Closed
+10303,Theft,2025,5,Open
+10304,Water Damage,2024,1,Open
+10305,Water Damage,2021,8,Closed
+10306,Wind/Hail,2025,3,Open
+10307,Fire,2025,3,Open
+10308,Theft,2023,11,Closed
+10309,Fire,2023,7,Open
+10310,Water Damage,2025,1,Open
+10311,Fire,2022,2,Open
+10312,Theft,2021,1,Closed
+10313,Wind/Hail,2020,6,Closed
+10314,Water Damage,2023,12,Closed
+10315,Fire,2024,1,Open
+10316,Theft,2022,10,Closed
+10317,Water Damage,2023,10,Closed
+10318,Flood,2022,3,Open
+10319,Wind/Hail,2020,10,Closed
+10320,Theft,2023,6,Closed
+10321,Fire,2022,7,Open
+10322,Water Damage,2024,4,Open
+10323,Wind/Hail,2024,5,Open
+10324,Theft,2018,5,Closed
+10325,Theft,2023,12,Closed
+10326,Water Damage,2018,5,Closed
+10327,Flood,2023,11,Open
+10328,Theft,2024,3,Closed
+10329,Flood,2023,8,Open
+10330,Wind/Hail,2019,5,Closed
+10331,Fire,2023,6,Open
+10332,Wind/Hail,2024,4,Open
+10333,Water Damage,2022,6,Closed
+10334,Fire,2021,2,Closed
+10335,Wind/Hail,2021,2,Closed
+10336,Wind/Hail,2022,11,Closed
+10337,Water Damage,2018,10,Closed
+10338,Flood,2024,3,Open
+10339,Flood,2022,11,Open
+10340,Water Damage,2020,2,Closed
+10341,Wind/Hail,2025,3,Open
+10342,Theft,2021,5,Closed
+10343,Theft,2020,11,Closed
+10344,Water Damage,2020,9,Closed
+10345,Theft,2021,9,Closed
+10346,Flood,2024,8,Open
+10347,Theft,2018,11,Closed
+10348,Water Damage,2023,6,Closed
+10349,Theft,2022,10,Closed
+10350,Wind/Hail,2019,4,Closed
+10351,Water Damage,2018,10,Closed
+10352,Flood,2023,10,Open
+10353,Water Damage,2022,3,Closed
+10354,Fire,2019,1,Closed
+10355,Wind/Hail,2019,11,Closed
+10356,Theft,2020,8,Closed
+10357,Water Damage,2024,2,Open
+10358,Water Damage,2024,7,Open
+10359,Wind/Hail,2024,7,Open
+10360,Wind/Hail,2024,11,Open
+10361,Wind/Hail,2023,11,Closed
+10362,Wind/Hail,2019,5,Closed
+10363,Fire,2025,1,Open
+10364,Wind/Hail,2023,11,Open
+10365,Wind/Hail,2022,10,Closed
+10366,Water Damage,2018,5,Closed
+10367,Flood,2023,4,Open
+10368,Wind/Hail,2024,7,Open
+10369,Fire,2022,3,Open
+10370,Water Damage,2020,5,Closed
+10371,Flood,2022,1,Open
+10372,Water Damage,2024,9,Open
+10373,Fire,2024,8,Open
+10374,Flood,2021,3,Closed
+10375,Wind/Hail,2024,12,Open
+10376,Theft,2018,7,Closed
+10377,Water Damage,2024,1,Open
+10378,Water Damage,2021,9,Closed
+10379,Water Damage,2024,6,Open
+10380,Water Damage,2019,6,Closed
+10381,Fire,2020,11,Closed
+10382,Water Damage,2020,5,Closed
+10383,Flood,2021,4,Closed
+10384,Fire,2022,9,Open
+10385,Wind/Hail,2022,6,Closed
+10386,Water Damage,2024,3,Open
+10387,Theft,2024,9,Closed
+10388,Water Damage,2018,11,Closed
+10389,Water Damage,2020,2,Closed
+10390,Water Damage,2025,1,Open
+10391,Water Damage,2022,8,Closed
+10392,Water Damage,2025,5,Open
+10393,Wind/Hail,2020,7,Closed
+10394,Theft,2021,6,Closed
+10395,Fire,2020,1,Closed
+10396,Flood,2025,11,Open
+10397,Wind/Hail,2024,8,Open
+10398,Wind/Hail,2020,3,Closed
+10399,Fire,2020,6,Closed
+10400,Wind/Hail,2023,9,Open
+10401,Water Damage,2023,1,Closed
+10402,Fire,2022,10,Open
+10403,Fire,2022,11,Open
+10404,Fire,2018,4,Closed
+10405,Theft,2023,12,Closed
+10406,Theft,2023,6,Closed
+10407,Wind/Hail,2023,10,Open
+10408,Wind/Hail,2025,10,Open
+10409,Theft,2019,8,Closed
+10410,Theft,2023,4,Closed
+10411,Water Damage,2023,1,Closed
+10412,Water Damage,2024,12,Open
+10413,Fire,2023,3,Open
+10414,Theft,2024,9,Open
+10415,Fire,2023,9,Open
+10416,Fire,2021,4,Closed
+10417,Wind/Hail,2020,6,Closed
+10418,Fire,2018,12,Closed
+10419,Water Damage,2023,1,Closed
+10420,Water Damage,2023,1,Closed
+10421,Water Damage,2021,10,Closed
+10422,Fire,2021,3,Closed
+10423,Flood,2025,5,Open
+10424,Water Damage,2020,3,Closed
+10425,Wind/Hail,2024,5,Open
+10426,Water Damage,2022,12,Closed
+10427,Theft,2025,11,Open
+10428,Wind/Hail,2023,10,Closed
+10429,Fire,2022,11,Open
+10430,Water Damage,2023,4,Closed
+10431,Water Damage,2021,1,Closed
+10432,Wind/Hail,2018,2,Closed
+10433,Theft,2022,11,Closed
+10434,Water Damage,2022,3,Closed
+10435,Water Damage,2022,8,Closed
+10436,Wind/Hail,2019,12,Closed
+10437,Water Damage,2022,1,Closed
+10438,Wind/Hail,2025,5,Open
+10439,Theft,2022,1,Closed
+10440,Wind/Hail,2020,9,Closed
+10441,Water Damage,2024,11,Open
+10442,Wind/Hail,2023,10,Open
+10443,Fire,2021,2,Closed
+10444,Theft,2025,9,Open
+10445,Fire,2022,10,Open
+10446,Fire,2020,2,Closed
+10447,Fire,2022,1,Open
+10448,Wind/Hail,2025,1,Open
+10449,Water Damage,2022,10,Closed
+10450,Water Damage,2019,1,Closed
+10451,Wind/Hail,2023,6,Closed
+10452,Theft,2019,6,Closed
+10453,Water Damage,2021,8,Closed
+10454,Water Damage,2024,8,Open
+10455,Theft,2018,9,Closed
+10456,Water Damage,2020,6,Closed
+10457,Water Damage,2021,6,Closed
+10458,Flood,2018,7,Closed
+10459,Fire,2020,11,Closed
+10460,Water Damage,2020,10,Closed
+10461,Water Damage,2022,6,Closed
+10462,Wind/Hail,2021,11,Closed
+10463,Fire,2021,12,Closed
+10464,Theft,2022,10,Closed
+10465,Water Damage,2024,7,Open
+10466,Water Damage,2019,3,Closed
+10467,Flood,2021,7,Closed
+10468,Flood,2019,5,Closed
+10469,Water Damage,2019,9,Closed
+10470,Water Damage,2025,11,Open
+10471,Theft,2022,8,Closed
+10472,Fire,2022,6,Open
+10473,Water Damage,2022,9,Closed
+10474,Wind/Hail,2022,9,Closed
+10475,Water Damage,2025,12,Open
+10476,Wind/Hail,2023,5,Closed
+10477,Water Damage,2024,10,Open
+10478,Wind/Hail,2024,6,Open
+10479,Wind/Hail,2020,12,Closed
+10480,Wind/Hail,2022,7,Closed
+10481,Wind/Hail,2025,11,Open
+10482,Water Damage,2023,7,Closed
+10483,Fire,2018,1,Closed
+10484,Water Damage,2023,2,Closed
+10485,Water Damage,2019,3,Closed
+10486,Wind/Hail,2020,2,Closed
+10487,Water Damage,2025,4,Open
+10488,Wind/Hail,2019,2,Closed
+10489,Theft,2022,8,Closed
+10490,Flood,2024,8,Open
+10491,Theft,2025,2,Open
+10492,Fire,2023,6,Open
+10493,Theft,2021,9,Closed
+10494,Theft,2023,9,Closed
+10495,Wind/Hail,2020,11,Closed
+10496,Fire,2018,2,Closed
+10497,Theft,2019,4,Closed

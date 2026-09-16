@@ -1,0 +1,30 @@
+﻿claim_type,developmental_period,industry_df
+Wind/Hail,12→24,1.635
+Wind/Hail,24→36,1.112
+Wind/Hail,36→48,1.038
+Wind/Hail,48→60,1.01
+Water Damage,12→24,1.895
+Water Damage,24→36,1.172
+Water Damage,36→48,1.058
+Water Damage,48→60,1.022
+Water Damage,60→72,1.008
+Fire,12→24,2.862
+Fire,24→36,1.418
+Fire,36→48,1.182
+Fire,48→60,1.092
+Fire,60→72,1.048
+Fire,72→84,1.026
+Fire,84→96,1.014
+Fire,96→108,1.008
+Fire,108→120,1.004
+Fire,120→Ult,1.003
+Flood,12→24,2.385
+Flood,24→36,1.298
+Flood,36→48,1.128
+Flood,48→60,1.058
+Flood,60→72,1.028
+Flood,72→84,1.012
+Flood,84→96,1.005
+Theft,12→24,1.192
+Theft,24→36,1.024
+Theft,36→48,1.006
