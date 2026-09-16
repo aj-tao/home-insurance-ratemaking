@@ -2,6 +2,15 @@
 SELECT count(*) FROM claims; -- 497 claims in total
 SELECT count(*) FROM claim_payments; -- 2418 claim payments in total
 
+/* Count the number of claims per claim type. */
+SELECT claim_type, count(*) FROM claims
+GROUP BY claim_type;
+-- Wind/Hail: 111
+-- Water Damage: 154
+-- Fire: 110
+-- Flood: 45
+-- Theft: 77
+
 /* Aggregate the claim payments by claim id and payment year. */
 SELECT c.claim_id, cp.payment_year, sum(cp.payment_amount)
 FROM claims AS c
