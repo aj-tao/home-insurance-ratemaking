@@ -3,9 +3,16 @@
 This is a home insurance ratemaking project using a sample dataset of around 500 claims and 2400 claim transactions, created by the [Actuarial Accelerator Community](https://etchedactuarial.com/accelerator) for educational purposes. The claims are reported by home insurers from 2018 to 2025 for losses involving wind/hail, water damage, fire, flood, and theft under policies covered by the Etched Actuarial Home Insurance Inc (EAHII). 
 
 This project aims to do the following:
-1. **Compute the ultimate losses projected from the most recent payments from EAHII made in 2025 using the chain-ladder technique.** The ultimate losses are computed as an average of the average loss development factors and the industry benchmark factors weighted by a credibility factor, from the given claims data and derives the selected ultimate development factor  used to project the total ultimate losses.
-2. **Visualize the trends of payments in aggregation.** Two line charts are used: one aggregating payments against claims' accident years, and another aggregating against claims' payment months. These aggregates are categorized by claim type.
-3. **Identify premium rate changes allowed by EAHII and Property Insurance Regulators, using the data on total premiums and ultimate losses from the payments made in 2025 on open claims.** An aggregate premium rate change is allowed by EAHII if for each claim type, the resulting after-adjustment loss ratio, computed as\
+1. **Compute the ultimate losses projected from the most recent payments from EAHII made in 2025 using the chain-ladder technique.** 
+
+The ultimate losses are computed as an average of the average loss development factors and the industry benchmark factors weighted by a credibility factor, from the given claims data and derives the selected ultimate development factor  used to project the total ultimate losses.
+2. **Visualize the trends of payments in aggregation.** 
+
+Two line charts are used: one aggregating payments against claims' accident years, and another aggregating against claims' payment months. These aggregates are categorized by claim type.
+3. **Identify premium rate changes allowed by EAHII and Property Insurance Regulators, using the data on total premiums and ultimate losses from the payments made in 2025 on open claims.** 
+
+An aggregate premium rate change is allowed by EAHII if for each claim type, the resulting after-adjustment loss ratio, computed as\
+
 $$\text{after-adjustment loss ratio} = \frac{\text{current ultimate losses}}{(\text{current premiums})(1+\text{premium rate change})}$$
 
 doesn't fall outside of 10% of the target loss ratio; it is allowed by the regulators if it is within their error rate (for instance, if it is 5%, then premium rate changes must be less than or equal to 5% up or down).
