@@ -5,7 +5,7 @@ This is a home insurance ratemaking project using a sample dataset of around 500
 This project aims to do the following:
 1. **Compute the ultimate losses projected from the most recent payments from EAHII made in 2025 using the chain-ladder technique.** 
 
-The ultimate losses are computed as an average of the average loss development factors and the industry benchmark factors weighted by a credibility factor, from the given claims data and derives the selected ultimate development factor  used to project the total ultimate losses.
+The ultimate losses are computed as an average of the average loss development factors and the industry benchmark factors weighted by a credibility factor, from the given claims data and industry benchmark data.
 
 2. **Visualize the trends of payments in aggregation.** 
 
