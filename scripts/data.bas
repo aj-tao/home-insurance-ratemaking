@@ -11,7 +11,7 @@ Dim transaction
 ws_file.Columns("A:E").ClearContents
 ws_file.Cells(1, "A").Value = "payment_id"
 ws_file.Cells(1, "B").Value = "claim_id"
-ws_file.Cells(1, "C").Value = "transaction"
+ws_file.Cells(1, "C").Value = "payment_amount"
 ws_file.Cells(1, "D").Value = "transaction_year"
 ws_file.Cells(1, "E").Value = "transaction_month"
 
