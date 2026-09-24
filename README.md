@@ -3,6 +3,7 @@
 This is a home insurance ratemaking project using a sample dataset of around 500 claims and 2400 claim transactions, created by the [Actuarial Accelerator Community](https://etchedactuarial.com/accelerator) for educational purposes. The claims are reported by home insurers from 2018 to 2025 for losses involving wind/hail, water damage, fire, flood, and theft under policies covered by the Etched Actuarial Home Insurance Inc (EAHII). 
 
 This project aims to do the following:
+
 **1. Compute the ultimate losses projected from the most recent payments from EAHII made in 2025 using the chain-ladder technique.** 
 
 The ultimate losses are computed as an average of the average loss development factors and the industry benchmark factors weighted by a credibility factor, from the given claims data and industry benchmark data.
